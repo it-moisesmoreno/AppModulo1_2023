@@ -45,5 +45,7 @@ public class Desafio005 {
         } else {
             System.out.print("Usted tiene Obesidad");
         }
+        
+        input.close();
     }
 }

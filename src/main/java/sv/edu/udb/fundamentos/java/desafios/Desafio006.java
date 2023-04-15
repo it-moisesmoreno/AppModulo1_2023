@@ -36,6 +36,8 @@ public class Desafio006 {
         // Impresión de resultados
         System.out.println("El descuento es: " + descuento);
         System.out.println("El total a pagar es: " + total);
+    
+        input.close();
     }
 
 }

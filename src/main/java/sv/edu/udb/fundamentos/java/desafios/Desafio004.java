@@ -27,6 +27,8 @@ public class Desafio004 {
             System.out.println("El número es par");
         else
             System.out.println("El número es impar");
+        
+        input.close();
     }
 
 }
