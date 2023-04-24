@@ -3,8 +3,6 @@ package sv.edu.udb.fundamentos.java.desafios;
 /**
  * Escriba un programa que produzca la siguiente salida:
  *
- * Grupo: Alberto Jose Cubías Lopez, Damaris Raquel Sales Diaz Moisés Ernesto
- * Moreno Cartagena
  */
 public class Desafio011 {
 

@@ -15,10 +15,7 @@ package sv.edu.udb.fundamentos.java.desafios;
  * arreglo_password_generado queda ordenado primero letras, luego numeros y
  * finalmente caracteres especiales. El siguiente paso será desordenarlo para
  * que no queden juntos. Investigue el uso del método shuffle de la clase
- * Collections para este punto
- *
- * * Grupo: Alberto Jose Cubías Lopez, Damaris Raquel Sales Diaz, Moisés Ernesto
- * Moreno Cartagena
+ * Collections para este punto.
  */
 import java.util.Arrays;
 import java.util.Collections;

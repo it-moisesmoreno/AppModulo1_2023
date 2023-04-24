@@ -6,8 +6,6 @@ package sv.edu.udb.fundamentos.java.desafios;
  * divisible entre 5 y “divisible tres y cinco” cuando se divisible entre ambos.
  * Incluir los números del 1 al 100.
  *
- * Grupo: Alberto Jose Cubías Lopez, Damaris Raquel Sales Diaz Moisés Ernesto
- * Moreno Cartagena
  */
 public class Desafio012 {
 
