@@ -3,6 +3,7 @@ package sv.edu.udb.fundamentos.java.desafios;
 /**
  * Escriba un programa que produzca la siguiente salida:
  *
+ * Grupo:
  */
 public class Desafio011 {
 

@@ -16,6 +16,8 @@ package sv.edu.udb.fundamentos.java.desafios;
  * finalmente caracteres especiales. El siguiente paso será desordenarlo para
  * que no queden juntos. Investigue el uso del método shuffle de la clase
  * Collections para este punto.
+ * 
+ * Grupo:
  */
 import java.util.Arrays;
 import java.util.Collections;
